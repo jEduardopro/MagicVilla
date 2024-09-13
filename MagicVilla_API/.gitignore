@@ -1,0 +1,6 @@
+.vs/
+.vs
+
+.vs/
+!.vs/FileContentIndex/       # Permite rastrear la carpeta FileContentIndex
+.vs/FileContentIndex/*.vsidx  # Ignora específicamente los archivos .vsidx
